@@ -112,5 +112,5 @@ The dataset contains 20,000+ ride records, including:
 
 ---
 
-## 🙌 Conclusion
+## Conclusion
 This project demonstrates how SQL and Power BI can be combined to transform raw ride data into meaningful insights. It helps businesses improve operational efficiency, reduce cancellations, and enhance customer satisfaction through data-driven decisions.
